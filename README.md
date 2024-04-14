@@ -1,6 +1,6 @@
 # Hi there :metal:
 
-###My very own personal website :stuck_out_tongue_winking_eye:. Basically this is just a résumé.
+### My very own personal website :stuck_out_tongue_winking_eye:. Basically this is just a résumé.
 
 *In my mind, in my head,
 This is where we all came from
